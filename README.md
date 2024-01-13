@@ -1,4 +1,4 @@
-# Rust backend development 
+# Web backend development using Axum framework 
 
 Several projects for rust web development(axum, Posgres, redis, ...)
 
