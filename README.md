@@ -11,3 +11,5 @@ Several projects for rust web development(axum, Posgres, redis, ...)
 - redis-example-app 
 - response-snippets (basic responses of axum app)
 - static-ste
+
+Inspired by https://github.com/duguorong009/go-small-projects
